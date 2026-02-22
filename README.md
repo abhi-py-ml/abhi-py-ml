@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Abhijeet 👋
 
-<!--
-**abhi-py-ml/abhi-py-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Computer Science Student  
+ Aspiring AI/ML Engineer  
+ Currently learning Python & Data Science  
+ Interested in Machine Learning & AI  
 
-Here are some ideas to get you started:
+ Goals for 2026
+- Learn Machine Learning
+- Build AI Projects
+- Get AI/ML Internship
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+- Python (Learning)
+- Git & GitHub
+- Problem Solving
